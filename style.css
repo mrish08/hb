@@ -308,7 +308,7 @@ html{
 
 }
 .skills .skill-content .left .player .imgbox{
-    position: inherit;
+    position: absolute;
     width: 100%;
     height: 450px;
 }
@@ -317,7 +317,7 @@ html{
    outline: none;
 }
 .skills .skill-content .left .player .imgbox .img{
-    position: inherit;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
