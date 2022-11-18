@@ -303,6 +303,7 @@ html{
 }
 .skills .skill-content .left .player{
     position: absolute;
+    display: inline-block;
     width: 350px;
     border-radius: 20px;
 
