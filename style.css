@@ -152,6 +152,12 @@ html{
     .showcase-text{
         visibility: visible;
     }
+    .showcase-text .text-1{
+        visibility: visible;
+    }
+    .showcase-text .text-2{
+        visibility: visible;
+    }
     .about{
         visibility: collapse;
     }
