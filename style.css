@@ -238,7 +238,9 @@ html{
 .about .about-content .left img{
     height: 450px;
     width: 450px;
-    object-fit:scale-down;
+    display: flex;
+    flex-wrap: wrap;
+    object-fit: cover;
     border-radius: 50%;
 }
 
