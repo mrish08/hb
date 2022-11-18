@@ -186,52 +186,7 @@ html{
     opacity: 0.2;
     overflow: hidden;
 }
-@media only screen and (max-width: 360px){
-    .container{
-        visibility:visible;
-    }
-    #showcase{
-        visibility: collapse;
-    }
-    .showcase-text{
-        visibility: visible;
-    }
-    .showcase-text .text-1{
-        visibility: visible;
-    }
-    .showcase-text .text-2{
-        visibility: visible;
-    }
-    .showcase-text .text-3 span{
-        visibility: visible;
-    }
-    .title::before{
-            visibility: visible;
-        }
-    .title::after{
-            visibility: visible;
-    }
-    #about{
-        visibility: collapse;
-    }
-    .about .title::before{
-        visibility: visible;
-    }
-    .about .title::after{
-        visibility: visible;
-    }
-    .about h1{ visibility: visible;
-    }
-    .about h5{
-        visibility: visible;
-    }
-    .about .about-content .column{
-        visibility: collapse;
-    }
-    #skills{
-        visibility: collapse;
-    }
-}
+
 
 
 /* About section content */
