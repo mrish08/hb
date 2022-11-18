@@ -190,7 +190,7 @@ html{
     .container{
         visibility:visible;
     }
-    .showcase{
+    #showcase{
         visibility: collapse;
     }
     .showcase-text{
@@ -211,10 +211,10 @@ html{
     .title::after{
             visibility: visible;
     }
-    .about{
+    #about{
         visibility: collapse;
     }
-    .skills{
+    #skills{
         visibility: collapse;
     }
 }
