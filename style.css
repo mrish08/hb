@@ -335,7 +335,7 @@ html{
 .skills .skill-content .right .info{
     display: flex;
     margin-bottom: 5px;
-    align-items: center;
+    align-items: right;
     justify-content: space-between;
     color: #A9ADB8;
 }
