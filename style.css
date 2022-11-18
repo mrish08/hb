@@ -15,7 +15,9 @@ html{
     scroll-behavior: smooth;
 }
 
-
+@media screen {
+    
+}
 .container{
     max-width: 1300px;
     padding: 0px 100px;
@@ -335,6 +337,7 @@ html{
 .skills .skill-content .right .info{
     display: flex;
     margin-bottom: 5px;
+    margin-left: 15px;
     align-items: right;
     justify-content: space-between;
     color: #A9ADB8;
