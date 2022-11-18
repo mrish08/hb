@@ -37,7 +37,8 @@ const music_list = [
 ];
 //music
 window.addEventListener('click',()=> {
-    document.getElementById("song").play();
+    document.getElementById("song").play();},{
+        once: true
 });
 loadTrack(track_index);
 
