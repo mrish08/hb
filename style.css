@@ -214,6 +214,20 @@ html{
     #about{
         visibility: collapse;
     }
+    .about .title::before{
+        visibility: visible;
+    }
+    .about .title::after{
+        visibility: visible;
+    }
+    .about h1{ visibility: visible;
+    }
+    .about h5{
+        visibility: visible;
+    }
+    .about .about-content .column{
+        visibility: collapse;
+    }
     #skills{
         visibility: collapse;
     }
