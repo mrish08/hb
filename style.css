@@ -238,8 +238,8 @@ html{
     overflow: hidden;
 }
 .about .about-content .left img{
-    height: 450px;
-    width: 450px;
+    height: 440px;
+    width: 440px;
     object-fit: cover;
     border-radius: 50%;
 }
