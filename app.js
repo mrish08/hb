@@ -18,8 +18,8 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing-1",{
         strings: [
-            "Shaira Marielle Carla ♡", "yeli ♡", "yellie ♡",
-            "iellie ♡ "
+            "Shaira Marielle Carla♡", "Yeli♡", "Yellie♡",
+            "Iellie♡ "
         ],
         typeSpeed: 100,
         backSpeed: 60,
