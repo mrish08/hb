@@ -54,7 +54,9 @@ html{
 .list li span{
     padding-left: 50px;
 } */
-
+.music1{
+    display: none;
+}
 .btn-md{
     display: inline-block;
     background: #FEC544;
