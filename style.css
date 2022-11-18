@@ -92,14 +92,6 @@ html{
     transform: translateY(1px);
 }
 
-.showcase{
-    background-color: #ccd5ae;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size:cover;
-    background-size:cover;
-    background-position:center;
-}
 
 .navbar{
     position: fixed;
@@ -146,7 +138,10 @@ html{
     color: #FEC544;
 }
 
-
+#showcase
+{
+    background: #ccd5ae;
+}
 /* Showcase content section */
 .showcase-text{
     max-width: 900px;
