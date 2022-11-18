@@ -23,7 +23,7 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/al1.png',
-        name : 'With a Smiles',
+        name : 'With a Smile',
         artist : 'Eraserheads',
         music : 'music/with_a_smile_cover_by_kaleigh.mp3'
     },
