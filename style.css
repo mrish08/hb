@@ -93,7 +93,7 @@ html{
 }
 
 .showcase{
-    background-image: url('./images/bg11.png');
+    background-color: #ccd5ae;
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
