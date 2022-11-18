@@ -236,10 +236,9 @@ html{
     overflow: hidden;
 }
 .about .about-content .left img{
-    height: auto;
-    width: auto;
-    display: flex;
-    flex-wrap: wrap;
+    height: 450px;
+    width: 450px;
+    display:grid;
     object-fit: cover;
     border-radius: 50%;
 }
