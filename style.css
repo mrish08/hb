@@ -301,22 +301,22 @@ html{
     margin-top: 40px;
     width: calc(50% - 50px);
 }
-.skills .skill-content .left .player .imgbox{
+.skills .skill-content .left .player{
     position: absolute;
     width: 350px;
     border-radius: 20px;
 
 }
-.skills .skill-content .left .imgbox{
+.skills .skill-content .left .player .imgbox{
     position: inherit;
     width: 100%;
     height: 450px;
 }
-.skills .skill-content .left .audio{
+.skills .skill-content .left .player .audio{
     width: 100%;
    outline: none;
 }
-.skills .skill-content .left .imgbox .img{
+.skills .skill-content .left .player .imgbox .img{
     position: inherit;
     top: 0;
     left: 0;
