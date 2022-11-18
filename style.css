@@ -192,6 +192,9 @@ html{
     overflow: hidden;
 }
 @media only screen and (max-width: 360px){
+    .container{
+        visibility: collapse;
+    }
     .showcase{
         visibility: collapse;
     }
