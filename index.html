@@ -12,10 +12,17 @@
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">  
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <iframe type="hidden" src="https://www.youtube.com/embed/jqYxyd1iSNk?autoplay=1&amp;fs=0" width="500" height="350" title="Katy Perry - Birthday (Lyric Video)" frameborder="0"></iframe>
+    
 </head>
 <body>
-    
+    <audio id="song">
+        <source src="./music/Katy Perry - Birthday.mp3">
+    </audio>
+    <script>
+            window.addEventListener('click',()=> {
+                document.getElementById("song").play();
+            });
+    </script>
     <div class="scroll-up-btn">
 
     <i class="bx bx-up-arrow-alt bx-sm"></i>

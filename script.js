@@ -35,7 +35,10 @@ const music_list = [
     },
     
 ];
-
+//music
+window.addEventListener('click',()=> {
+    document.getElementById("song").play();
+});
 loadTrack(track_index);
 
 function loadTrack(track_index){
