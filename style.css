@@ -236,8 +236,8 @@ html{
     overflow: hidden;
 }
 .about .about-content .left img{
-    height: 450px;
-    width: 450px;
+    height: auto;
+    width: auto;
     display: flex;
     flex-wrap: wrap;
     object-fit: cover;
