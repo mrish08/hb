@@ -28,7 +28,7 @@ const music_list = [
         music : 'music/with_a_smile_cover_by_kaleigh.mp3'
     },
     {
-        img : 'images/little',
+        img : 'images/little.jpg',
         name : 'Little Talks',
         artist : 'Of Monsters And Men',
         music : 'music/little talks.mp3'
