@@ -468,7 +468,7 @@ html{
     -moz-appearance: none;
     appearance: none;
     height: 5px;
-    background: #83a9ff;
+    background: #dda15e;
     -webkit-transition: .2s;
     transition: opacity .2s;
 }
@@ -480,7 +480,7 @@ html{
     width: 15px;
     height: 15px;
     background: white;
-    border: 3px solid #3774ff;
+    border: 3px solid #dda15e;
     cursor: pointer;
     border-radius: 100%;
 }
