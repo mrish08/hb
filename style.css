@@ -301,9 +301,15 @@ html{
     margin-top: 40px;
     width: calc(50% - 50px);
 }
+.skills .skill-content .left .player .imgbox{
+    position: absolute;
+    width: 350px;
+    border-radius: 20px;
+
+}
 .skills .skill-content .left .imgbox{
     position: relative;
-    width: 350px;
+    width: 100%;
     height: 450px;
 }
 .skills .skill-content .left .audio{
@@ -317,6 +323,8 @@ html{
     width: 100%;
     height: 100%;
     object-fit: cover;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
 }
 .skills .skill-content .left .text{
     font-size: 27px;
