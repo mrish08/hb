@@ -28,10 +28,10 @@ const music_list = [
         music : 'music/with_a_smile_cover_by_kaleigh.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/little',
+        name : 'Little Talks',
+        artist : 'Of Monsters And Men',
+        music : 'music/little talks.mp3'
     },
     
 ];
