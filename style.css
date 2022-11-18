@@ -193,7 +193,7 @@ html{
 }
 @media only screen and (max-width: 360px){
     .container{
-        visibility: collapse;
+        visibility:visible;
     }
     .showcase{
         visibility: collapse;
