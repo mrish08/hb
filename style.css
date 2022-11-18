@@ -149,6 +149,9 @@ html{
     .showcase{
         visibility: collapse;
     }
+    .showcase-text{
+        visibility: visible;
+    }
     .about{
         visibility: collapse;
     }
