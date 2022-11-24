@@ -28,10 +28,10 @@ const music_list = [
         music : 'music/with_a_smile_cover_by_kaleigh.mp3'
     },
     {
-        img : 'images/little.jpg',
-        name : 'Little Talks',
-        artist : 'Of Monsters And Men',
-        music : 'music/little talks.mp3'
+        img : 'images/hollow.jpg',
+        name : 'Coastline',
+        artist : 'Hollow Coves',
+        music : 'music/hollow.mp3'
     },
     
 ];
