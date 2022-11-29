@@ -28,7 +28,7 @@ const music_list = [
         music : 'music/with_a_smile_cover_by_kaleigh.mp3'
     },
     {
-        img : 'images/hollow.jpg',
+        img : 'images/hollow.jfif',
         name : 'Coastline',
         artist : 'Hollow Coves',
         music : 'music/hollow.mp3'
