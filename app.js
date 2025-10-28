@@ -18,7 +18,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing-1",{
         strings: [
-            "Maty Jane Neri♡", "MJbabyyy♡", "Bebii♡",
+            "Mary Jane Neri♡", "MJbabyyy♡", "Bebii♡",
             "Memii♡ "
         ],
         typeSpeed: 100,
