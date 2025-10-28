@@ -18,8 +18,8 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing-1",{
         strings: [
-            "Shaira Marielle Carla♡", "Yeli♡", "Yellie♡",
-            "Iellie♡ "
+            "Maty Jane Neri♡", "MJbabyyy♡", "Bebii♡",
+            "Memii♡ "
         ],
         typeSpeed: 100,
         backSpeed: 60,
@@ -27,8 +27,8 @@ $(document).ready(function(){
     });
     var typed = new Typed(".typing-2",{
         strings: [
-            "Guitarist", "Artist", "Caring..",
-            "Loving..", "Respiratory Therapist"
+            "Architect", "QA master", "Caring..",
+            "Pervyyy hehe", "Big babyy"
         ],
         typeSpeed: 100,
         backSpeed: 60,
